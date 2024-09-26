@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,nexo.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,mjedge.net
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN,api.githubcopilot.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
